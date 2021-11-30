@@ -1,0 +1,3 @@
+api.openweathermap.org/data/2.5/weather?q=malang&appid=cd31e3ea52a7a6493be5a024e3b46f8e
+###
+https://api.openweathermap.org/data/2.5/weather?units=metric&lat=-8.2108601&lon=111.7642346&appid=cd31e3ea52a7a6493be5a024e3b46f8e
